@@ -10,8 +10,24 @@
 
 }
 
+.navbar-fixed-top {
+  .border-radius(0) !important;
+}
 
+body { padding-top: 70px; }
 
+#landing {
+	padding-top:;
+}
+
+#welcome {
+	background: url("../images/tweed.png");
+	color: #ecf0f1;
+}
+
+#theoffice {
+	background: url("../images/brickwall.png");
+}
 
 
 
