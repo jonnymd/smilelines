@@ -11,13 +11,14 @@
 }
 
 .navbar-fixed-top {
-  .border-radius(0) !important;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
 }
 
 body { padding-top: 70px; }
 
 #landing {
-	padding-top:;
 }
 
 #welcome {
@@ -26,15 +27,9 @@ body { padding-top: 70px; }
 }
 
 #theoffice {
-	background: url("../images/brickwall.png");
+	background-color: #bdc3c7;
+	color: #34495e;
 }
-
-
-
-
-
-
-
 
 
 
